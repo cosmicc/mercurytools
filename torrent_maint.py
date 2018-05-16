@@ -9,8 +9,8 @@ from datetime import datetime, timedelta
 import logging
 import argparse
 from urlparse import urlparse
-from configparser import ConfigParser
 
+from configparser import ConfigParser
 import publicsuffix
 
 import processlock
